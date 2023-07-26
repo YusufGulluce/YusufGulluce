@@ -1,0 +1,6 @@
+- This reposity is made by Yusuf Güllüce
+- All members of company: Red Of Pine have permission to use this reposity
+- This reposity is for project: What A Fall
+- Please add comments to all codes!!!
+- Do not forget to save files!!!
+- What A Fall is a unity project
